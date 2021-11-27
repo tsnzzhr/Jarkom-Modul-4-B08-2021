@@ -9,25 +9,7 @@ Tsania Az Zahra | 05111940000032 |
 
 
 PENGERJAAN SUBNETTING DAN ROUTING PADA CISCO PACKET TRACER
-1. Membuat Topologi Dan Menentukan Subnet-Subnet Yang Ada Pada Jaringan Besar
-![subnet](https://user-images.githubusercontent.com/69724694/143686262-8f20a004-8166-433e-a6fb-c2361f7d680c.png)
-2. Menentukan Kebutuhan Host Tiap Subnet
-Urutan Subnet Terbanyak Hostnya :
-- A2 : 2021 (Penambahan 1 Router)
-- A5 : 1000
-- A9 : 721
-- A3 : 701
-- A7 : 521
-- A11 : 502 (Penambahan 2 Router)
-- A8 : 252
-- A1 : 101
-- A13 : 13
-- A4 : 2
-- A14 : 2
-- A15 : 2
-- A6 : 2
-- A10 : 2
-- A12 : 2
+
 
 3. Meng-assign Subnet Mask Pada Tiap Subnet Berdasarkan Kebutuhan Host dan IP Address nya Masing-masing
 
